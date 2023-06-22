@@ -1,0 +1,28 @@
+.form-control {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 30px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(34, 37, 43, 0.2);
+    background-color: rgb(178, 233, 233);
+    border: 1px solid rgb(21, 82, 79);
+    border-radius: 12px;
+}
+
+.form-control input {
+    margin: 5px;
+    padding: 4px;
+}
+
+.form-control button {
+    margin: 5px;
+    padding: 7px;
+    background-color: rgb(58, 58, 239);
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    border-color: white;
+}
