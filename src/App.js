@@ -6,7 +6,7 @@ import UserDetails from './components/UserDetails/UserDetails';
 
 function App() {
 
-  const [userData, setUserData] = useState([{ name: "Nand Ji", age: 25 }]);
+  const [userData, setUserData] = useState([]);
 
   const saveDataHandler = (userData) => {
     setUserData((prev) => {

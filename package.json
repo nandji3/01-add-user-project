@@ -1,5 +1,5 @@
 {
-  "name": "01-add-user-project",
+  "name": "add-user-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
